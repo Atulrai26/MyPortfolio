@@ -9,6 +9,11 @@ document.addEventListener("DOMContentLoaded",function(){
     const mediumLabel=document.getElementById("medium-label");
     const hardLabel=document.getElementById("hard-label");
     const cardStatsContainer=document.querySelector(".stats-cards");
+
+
+
+
+
     
 
     // for valide username, return true or false based on a regex
